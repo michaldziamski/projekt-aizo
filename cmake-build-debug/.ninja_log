@@ -1,0 +1,22 @@
+# ninja log v5
+34	2857	7351084750711950	CMakeFiles/untitled.dir/main.cpp.obj	527dfd23ea7f4380
+113	601	7348345852490535	CMakeFiles/untitled.dir/InsertionSort.cpp.obj	aa632e9b35c3478e
+2859	3151	7351084753601992	untitled.exe	39e9e29091713ce0
+18	2186	7348227046399441	CMakeFiles/untitled.dir/SortAlgorithm.cpp.obj	897980dbcad58332
+601	751	7348345853940535	CMakeFiles/untitled.dir/MergeSort.cpp.obj	322ad5ea2fda0a9f
+122	593	7348345852490535	CMakeFiles/untitled.dir/HeapSort.cpp.obj	78f23259598385d5
+751	923	7348345855635751	CMakeFiles/untitled.dir/BubbleSort.cpp.obj	95f3a912652facda
+594	1016	7348345855971710	CMakeFiles/untitled.dir/QuickSort.cpp.obj	9ee3091042283895
+34	382	7348348834456360	CMakeFiles/untitled.dir/measureSortingTime.cpp.obj	850f941133e81dda
+26	411	7348348834836747	CMakeFiles/untitled.dir/displayArray.cpp.obj	9788a9a15433b3b0
+4	1462	7351182223817264	build.ninja	dc8b460ffffe9f56
+21	2326	7349654128566394	CMakeFiles/untitled.dir/BinaryInsertionSort.cpp.obj	eae81ae306c5482c
+25	1256	7351182257138974	CMakeFiles/untitled.dir/InsertionSort.cpp.obj	6b7e51b910467078
+1257	1460	7351182258928987	CMakeFiles/untitled.dir/HeapSort.cpp.obj	42cc7745b418243c
+1460	1627	7351182260689799	CMakeFiles/untitled.dir/QuickSort.cpp.obj	77289de38f7fc23
+1627	1776	7351182262170271	CMakeFiles/untitled.dir/MergeSort.cpp.obj	5f14f08694891b12
+1776	1942	7351182263700296	CMakeFiles/untitled.dir/BubbleSort.cpp.obj	207a2e90e79f7d10
+19	2049	7351182264950765	CMakeFiles/untitled.dir/SortAlgorithm.cpp.obj	222b039d9e533b86
+1942	2100	7351182265465932	CMakeFiles/untitled.dir/BinaryInsertionSort.cpp.obj	3d35f5b2a1203d9f
+11	2999	7351182274533961	CMakeFiles/untitled.dir/main.cpp.obj	2436cf46450b1eb7
+3000	3938	7351182283833927	untitled.exe	44a62756993c8d14
